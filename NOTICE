@@ -2,7 +2,7 @@ This project depends on the following libraries (including test and runtime depe
 
   Hamcrest All under New BSD License
   Hamcrest Core under New BSD License
-  Java Native Access under LGPL, version 2.1 or ASL, version 2
+  Java Native Access under LGPL-2.1-or-later or Apache-2.0
   Java Rust Example under GNU General Public License, Version 3
   JUnit under Common Public License Version 1.0
 
